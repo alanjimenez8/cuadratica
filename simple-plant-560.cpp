@@ -25,6 +25,6 @@ int main() {
 		x1=sqrt(x1);
 	}
 	x/=2;
-	x1/=2;
+	x1/=2;	cout<<"Tus resultados son\n";
 	cout<<fixed<<setprecision(4)<<"el valor minimo: "<<x-b<<endl<<"el valor maximo: "<<x1+b;
 }
