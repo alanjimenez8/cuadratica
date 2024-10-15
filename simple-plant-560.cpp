@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	cout<<"ingrese los valores de A,B,C\n";
+	cout<<"solicita A,B,C\n";
 	long long a,b,c;
 	cin>>a>>b>>c;
 	float x=pow(b,2)-(4*a*c);
